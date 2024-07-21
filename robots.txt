@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://edaltanti.github.io/sitemap
+Sitemap: https://edaltanti.github.io/app/sitemap
+Sitemap: https://edaltanti.github.io/assets/sitemap
+Sitemap: https://edaltanti.github.io/css/sitemap
+Sitemap: https://edaltanti.github.io/includes/sitemap
+Sitemap: https://edaltanti.github.io/item/sitemap
+Sitemap: https://edaltanti.github.io/src/sitemap
